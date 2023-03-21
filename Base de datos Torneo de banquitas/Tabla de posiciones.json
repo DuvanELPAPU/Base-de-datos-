@@ -1,0 +1,49 @@
+[{
+  "_id": "01",
+  "Equipo": "Troyanos",
+  "Victorias": "03",
+  "Goles": "08",
+  "Puntos": "14"
+},{
+  "_id": "02",
+  "Equipo": "Amos del balón",
+  "Victorias": "02",
+  "Goles": "07",
+  "Puntos": "11"
+},{
+  "_id": "03",
+  "Equipo": "Campeones",
+  "Victorias": "01",
+  "Goles": "06",
+  "Puntos": "08"
+},{
+  "_id": "04",
+  "Equipo": "Gladiadores",
+  "Victorias": "01",
+  "Goles": "05",
+  "Puntos": "07"
+},{
+  "_id": "05",
+  "Equipo": "Vikingos",
+  "Victorias": "0",
+  "Goles": "04",
+  "Puntos": "04"
+},{
+  "_id": "06",
+  "Equipo": "Reyes",
+  "Victorias": "0",
+  "Goles": "03",
+  "Puntos": "03"
+},{
+  "_id": "07",
+  "Equipo": "Espartanos",
+  "Victorias": "0",
+  "Goles": "02",
+  "Puntos": "02"
+},{
+  "_id": "08",
+  "Equipo": "Goleadores",
+  "Victorias": "0",
+  "Goles": "01",
+  "Puntos": "01"
+}]

@@ -1,0 +1,225 @@
+[{
+  "_id": "01",
+  "Nombre": "Ivan",
+  "Apellido": "Ramirez",
+  "Edad": "16",
+  "Equipo": "Goleadores",
+  "Rol": "portero"
+},{
+  "_id": "02",
+  "Nombre": "Predro",
+  "Apellido": "Rincon",
+  "Edad": "17",
+  "Equipo": "Goleadores",
+  "Rol": "Campo"
+},{
+  "_id": "03",
+  "Nombre": "Luis",
+  "Apellido": "Tapias",
+  "Edad": "18",
+  "Equipo": "Goleadores",
+  "Rol": "Campo"
+},{
+  "_id": "04",
+  "Nombre": "Jhon",
+  "Apellido": "Peres",
+  "Edad": "19",
+  "Equipo": "Goleadores",
+  "Rol": "Campo"
+},{
+  "_id": "05",
+  "Nombre": "Camilo",
+  "Apellido": "Merchan",
+  "Edad": "20",
+  "Equipo": "Campeones",
+  "Rol": "portero"
+},{
+  "_id": "06",
+  "Nombre": "Duvan",
+  "Apellido": "Ruis",
+  "Edad": "15",
+  "Equipo": "Campeones",
+  "Rol": "Campo"
+},{
+  "_id": "07",
+  "Nombre": "Jeider",
+  "Apellido": "Ramos",
+  "Edad": "16",
+  "Equipo": "Campeones",
+  "Rol": "Campo"
+},{
+  "_id": "08",
+  "Nombre": "Cristian",
+  "Apellido": "Beltran",
+  "Edad": "16",
+  "Equipo": "Campeones",
+  "Rol": "Campo"
+},{
+  "_id": "09",
+  "Nombre": "Felipe",
+  "Apellido": "Campos",
+  "Edad": "18",
+  "Equipo": "Reyes",
+  "Rol": "portero"
+},{
+  "_id": "10",
+  "Nombre": "Gonzalo",
+  "Apellido": "Iglesias",
+  "Edad": "20",
+  "Equipo": "Reyes",
+  "Rol": "Campo"
+},{
+  "_id": "11",
+  "Nombre": "Carlos",
+  "Apellido": "Marin",
+  "Edad": "18",
+  "Equipo": "Reyes",
+  "Rol": "Campo"
+},{
+  "_id": "12",
+  "Nombre": "Mario",
+  "Apellido": "Valencia",
+  "Edad": "19",
+  "Equipo": "Reyes",
+  "Rol": "Campo"
+},{
+  "_id": "13",
+  "Nombre": "Hugo",
+  "Apellido": "Rivera",
+  "Edad": "18",
+  "Equipo": "Amos del balón",
+  "Rol": "portero"
+},{
+  "_id": "14",
+  "Nombre": "Esteven",
+  "Apellido": "Castillo",
+  "Edad": "16",
+  "Equipo": "Amos del balón",
+  "Rol": "Campo"
+},{
+  "_id": "15",
+  "Nombre": "Michael",
+  "Apellido": "Melo",
+  "Edad": "15",
+  "Equipo": "Amos del balón",
+  "Rol": "Campo"
+},{
+  "_id": "16",
+  "Nombre": "Edvin",
+  "Apellido": "Novoa",
+  "Edad": "20",
+  "Equipo": "Amos del balón",
+  "Rol": "Campo"
+},{
+  "_id": "17",
+  "Nombre": "Darwin",
+  "Apellido": "Medina",
+  "Edad": "18",
+  "Equipo": "Espartanos",
+  "Rol": "portero"
+},{
+  "_id": "18",
+  "Nombre": "Fabian",
+  "Apellido": "Pinto",
+  "Edad": "20",
+  "Equipo": "Espartanos",
+  "Rol": "Campo"
+},{
+  "_id": "19",
+  "Nombre": "Alex",
+  "Apellido": "Torres",
+  "Edad": "19",
+  "Equipo": "Espartanos",
+  "Rol": "Campo"
+},{
+  "_id": "20",
+  "Nombre": "Juan",
+  "Apellido": "Fonceca",
+  "Edad": "20",
+  "Equipo": "Espartanos",
+  "Rol": "Campo"
+},{
+  "_id": "21",
+  "Nombre": "Fernando",
+  "Apellido": "Genes",
+  "Edad": "15",
+  "Equipo": "Gladiadores",
+  "Rol": "portero"
+},{
+  "_id": "22",
+  "Nombre": "Jose",
+  "Apellido": "Hurtado",
+  "Edad": "15",
+  "Equipo": "Gladiadores",
+  "Rol": "Campo"
+},{
+  "_id": "23",
+  "Nombre": "Manuel",
+  "Apellido": "Parra",
+  "Edad": "15",
+  "Equipo": "Gladiadores",
+  "Rol": "Campo"
+},{
+  "_id": "24",
+  "Nombre": "Edgar",
+  "Apellido": "Santos",
+  "Edad": "16",
+  "Equipo": "Gladiadores",
+  "Rol": "Campo"
+},{
+  "_id": "25",
+  "Nombre": "Adrian",
+  "Apellido": "Cardona",
+  "Edad": "20",
+  "Equipo": "Vikingos",
+  "Rol": "portero"
+},{
+  "_id": "26",
+  "Nombre": "Wilmar",
+  "Apellido": "Rudas",
+  "Edad": "19",
+  "Equipo": "Vikingos",
+  "Rol": "Campo"
+},{
+  "_id": "27",
+  "Nombre": "Garen",
+  "Apellido": "Ortegon",
+  "Edad": "18",
+  "Equipo": "Vikingos",
+  "Rol": "Campo"
+},{
+  "_id": "28",
+  "Nombre": "Oscar",
+  "Apellido": "Peres",
+  "Edad": "18",
+  "Equipo": "Vikingos",
+  "Rol": "Campo"
+},{
+  "_id": "29",
+  "Nombre": "Tomas",
+  "Apellido": "Matines",
+  "Edad": "20",
+  "Equipo": "Troyanos",
+  "Rol": "portero"
+},{
+  "_id": "30",
+  "Nombre": "David",
+  "Apellido": "Cortes",
+  "Edad": "20",
+  "Equipo": "Troyanos",
+  "Rol": "Campo"
+},{
+  "_id": "31",
+  "Nombre": "Jorje",
+  "Apellido": "Hernandes",
+  "Edad": "17",
+  "Equipo": "Troyanos",
+  "Rol": "Campo"
+},{
+  "_id": "32",
+  "Nombre": "Andres",
+  "Apellido": "Pasto",
+  "Edad": "17",
+  "Equipo": "Troyanos",
+  "Rol": "Campo"
+}]

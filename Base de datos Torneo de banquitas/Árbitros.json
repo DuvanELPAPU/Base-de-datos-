@@ -1,0 +1,28 @@
+[{
+  "_id": "01",
+  "Nombre": "Sandra",
+  "Apellido": "Gutierres",
+  "Edad": "29",
+  "Arbitrado 01": "partido 01",
+  "Arbitrado 02": "partido 02"
+},{
+  "_id": "02",
+  "Nombre": "Felipe",
+  "Apellido": "Camacho",
+  "Edad": "33",
+  "Arbitrado 01": "partido 03",
+  "Arbitrado 02": "partido 04"
+},{
+  "_id": "03",
+  "Nombre": "Mateo",
+  "Apellido": "Mora",
+  "Edad": "31",
+  "Arbitrado 01": "partido 05",
+  "Arbitrado 02": "partido 06"
+},{
+  "_id": "04",
+  "Nombre": "Santiago",
+  "Apellido": "Castro",
+  "Edad": "26",
+  "Arbitrado 01": "partido 07"
+}]

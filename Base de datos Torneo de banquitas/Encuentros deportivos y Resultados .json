@@ -1,0 +1,50 @@
+[{
+  "_id": "01",
+  "Ronda": "octavos de final",
+  "Numero de partido": " partido 01",
+  "Equipo 01": "Goleadores",
+  "Equipo 02": "Campeones",
+  "ganador": "Campeones"
+},{
+  "_id": "02",
+  "Ronda": "octavos de final",
+  "Numero de partido": " partido 02",
+  "Equipo 01": " Reyes ",
+  "Equipo 02": "Amos del balón",
+  "ganador": "Amos del balón"
+},{
+  "_id": "03",
+  "Ronda": "octavos de final",
+  "Numero de partido": " partido 03",
+  "Equipo 01": "Espartanos",
+  "Equipo 02": "Gladiadores",
+  "ganador": "Gladiadores"
+},{
+  "_id": "04",
+  "Ronda": "octavos de final",
+  "Numero de partido": " partido 04",
+  "Equipo 01": "Vikingos",
+  "Equipo 02": "Troyanos",
+  "ganador": "Troyanos"
+},{
+  "_id": "05",
+  "Ronda": "cuartos de final",
+  "Numero de partido": " partido 05",
+  "Equipo 01": "Campeones",
+  "Equipo 02": "Amos del balón",
+  "ganador": "Amos del balón"
+},{
+  "_id": "06",
+  "Ronda": "cuartos de final",
+  "Numero de partido": " partido 06",
+  "Equipo 01": "Gladiadores",
+  "Equipo 02": "Troyanos",
+  "ganador": "Troyanos"
+},{
+  "_id": "07",
+  "Ronda": "final",
+  "Numero de partido": " partido 07",
+  "Equipo 01": "Amos del balón",
+  "Equipo 02": "Troyanos",
+  "ganador": "Troyanos"
+}]

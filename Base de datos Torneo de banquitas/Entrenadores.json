@@ -1,0 +1,49 @@
+[{
+  "_id": "01",
+  "Nombre": "Pedro",
+  "Apellido": "Sanchez",
+  "Edad": "30",
+  "Equipo": "Goleadores"
+},{
+  "_id": "02",
+  "Nombre": "Gabriel",
+  "Apellido": "Garcia",
+  "Edad": "35",
+  "Equipo": "Campeones"
+},{
+  "_id": "03",
+  "Nombre": "Rubén",
+  "Apellido": "Londoño",
+  "Edad": "33",
+  "Equipo": "Reyes"
+},{
+  "_id": "04",
+  "Nombre": "Erik",
+  "Apellido": "Jaramillo",
+  "Edad": "28",
+  "Equipo": "Amos del balón"
+},{
+  "_id": "05",
+  "Nombre": "Raúl",
+  "Apellido": "Gutierrez",
+  "Edad": "40",
+  "Equipo": "Espartanos"
+},{
+  "_id": "06",
+  "Nombre": "Matías",
+  "Apellido": "Lopez",
+  "Edad": "38",
+  "Equipo": "Gladiadores"
+},{
+  "_id": "07",
+  "Nombre": "Ignacio",
+  "Apellido": "Gallardo",
+  "Edad": "25",
+  "Equipo": "Vikingos"
+},{
+  "_id": "08",
+  "Nombre": "Teo",
+  "Apellido": "Rincon",
+  "Edad": "37",
+  "Equipo": "Troyanos"
+}]
